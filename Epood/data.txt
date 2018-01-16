@@ -1,0 +1,8 @@
+#Order : Tue Jan 16 20:34:40 EET 2018
+Product: Samsung Galaxy Image id:  0 Price: 250.0 Count: 2 Total: 500.0 
+#Order : Tue Jan 16 20:34:45 EET 2018
+Product: Samsung SII Image id:  2 Price: 330.0 Count: 1 Total: 330.0 
+#Order : Tue Jan 16 20:34:54 EET 2018
+Product: Samsung GX Image id:  1 Price: 400.0 Count: 3 Total: 1200.0 
+#Order : Tue Jan 16 20:35:04 EET 2018
+Product: Samsung Galaxy Image id:  0 Price: 250.0 Count: 3 Total: 750.0 
